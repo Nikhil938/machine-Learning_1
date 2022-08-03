@@ -1,3 +1,7 @@
+## Start Machine Learning project.
+
+### Software and account Requirement.
+
 1. [Github Account](https://github.com)
 2. [Heroku Account](https://dashboard.heroku.com/login)
 3. [VS Code IDE](https://code.visualstudio.com/download)
@@ -58,8 +62,8 @@ git remote -v
 ```
 
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = anishyadav7045075175@gmail.com
-2. HEROKU_API_KEY = <>
+1. HEROKU_EMAIL = nikhilvenkat694@gmail.com
+2. HEROKU_API_KEY = 52396d5b-c63d-4728-b38f-42c64e00eb4b
 3. HEROKU_APP_NAME = ml-regression-app
 
 BUILD DOCKER IMAGE
